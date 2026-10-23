@@ -1,79 +1,47 @@
-## Home AI Infrastructure Lab
-### From Personal AI Learning to a Miniature Data Center
+## My AI Infrastructure Lab
 
-## Project Overview
+This project documents my personal learning journey
+in artificial intelligence, machine learning,
+Linux, networking, and infrastructure engineering.
 
-This project documents my journey from learning artificial
-intelligence and machine learning to designing, building,
-and operating a personal AI infrastructure lab.
+### Phase 1 – Foundations
+- HP laptop: Python and machine learning coursework
+- Jupyter notebooks and early experimentation
+- Introduction to AI models and development tools
 
-What began as a way to learn Python, machine learning,
-and local large language models has evolved into a
-hands-on infrastructure project involving:
+### Phase 2 – Local AI Development
+- Lenovo Legion RTX 5060
+- Local LLM deployment and experimentation
+- Docker containerization
+- RAG and self-hosted search using SearXNG
+- AI coding assistants and agent development
 
-- AI model development and experimentation
-- Local large language models (LLMs)
-- Docker containers and orchestration
-- Linux systems administration
-- Network infrastructure
-- Network-attached storage (NAS)
+### Phase 3 – Infrastructure Expansion
+- Lenovo Yoga RTX Spark for larger AI models
+- UGREEN NAS for centralized model and file storage
+- 2.5 GbE networking
+- Linux-based monitoring
+- Comparative testing of 7B and 30B models
+
+### Phase 4 – Kubernetes and Reliability
+- Three-node Kubernetes cluster
+- Container orchestration
 - Infrastructure monitoring
-- Kubernetes clustering (planned)
-- Failure simulation and recovery testing (planned)
+- Failure simulation and recovery testing
+- Expansion toward a miniature data center environment
 
-The long-term objective is to develop practical skills
-applicable to data center operations, AI infrastructure,
-and aerospace engineering.
+## AI Project Repositories
 
-This is a personal learning project with professional
-applications.
+Individual repositories document the development,
+architecture, testing, and results of each AI project.
 
----
+- [Ozzy – Local AI Assistant](https://github.com/USERNAME/Ozzy)
+- [Tank – AI Coding Agent](https://github.com/USERNAME/Tank)
+- [Twin – Professional AI Assistant](https://github.com/USERNAME/Twin)
 
-## 1. How the Project Started
+## Professional Development
 
-### Phase 1: The Original HP Laptop
-
-My AI learning journey began with an HP laptop.
-
-The HP provided my initial environment for learning
-Python, machine learning fundamentals, and working
-through online technical courses.
-
-As my understanding of AI developed, I recognized
-that larger models would require more computing
-resources.
-
-This realization led to my first major hardware upgrade.
-
-### Phase 2: Lenovo Legion - AI Development
-
-I purchased a Lenovo Legion 5 specifically to support
-more demanding AI workloads.
-
-Specifications:
-
-- AMD Ryzen 7 processor
-- NVIDIA RTX 5060 GPU
-- 8 GB GPU VRAM
-- 48 GB system RAM
-- Windows operating system
-
-The Legion became my primary AI development machine.
-
-Projects include:
-
-- Local LLM experimentation
-- Python development
-- Jupyter notebooks
-- Docker containers
-- Model evaluation
-- Retrieval-augmented generation (RAG)
-- Local AI search integration
-
-Two important AI projects emerged:
-
-**Ozzy**
-A locally operated AI assistant incorporating RAG
-and self-hosted search capabilities. personal-ai-infrastructure-lab
-My journey building a personal AI and infrastructure lab, from local AI models to networking, monitoring, and Kubernetes.
+My objective is to combine practical AI development
+with infrastructure engineering, building skills
+applicable to data center operations, predictive
+maintenance, and aerospace technology.
